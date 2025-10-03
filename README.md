@@ -1,20 +1,12 @@
 <div align="center">
 
-<img src="https://ssl.lunadeer.cn:14437/i/2024/03/28/6604de7db2e6f.png" alt="" width="70%">
-
-### [开源地址](https://ssl.lunadeer.cn:14446/zhangyuheng/MiniPlayerTitle) | [文档地址](https://ssl.lunadeer.cn:14448/doc/2/)
-
-### [下载页面](https://ssl.lunadeer.cn:14446/zhangyuheng/MiniPlayerTitle/releases)
-
-### [统计页面](https://bstats.org/plugin/bukkit/MiniPlayerTitle/21444) | [Hangar](https://hangar.papermc.io/zhangyuheng/MiniPlayerTitle)
+### [开源地址](https://github.com/EarlyDreamLand/MiniPlayerTitle) | [文档地址](https://github.com/EarlyDreamLand/MiniPlayerTitle/wiki) | [下载页面](https://github.com/EarlyDreamLand/MiniPlayerTitle/actions)
 
 </div>
 
 ## 简易玩家称号插件
 
 [PlayerTitle](https://ricedoc.handyplus.cn/wiki/PlayerTitle/) 青春版
-
-![image-20240111093304074](https://ssl.lunadeer.cn:14437/i/2024/01/11/659f455088092.png)
 
 ## 说明
 
@@ -23,7 +15,7 @@
 
 ## 功能介绍
 
-- 本插件支持 PlayerTitle 的 [新版RGB颜色格式](https://ricedoc.handyplus.cn/wiki/PlayerTitle/rgb/#新版本格式) （详情见下文）
+- 本插件支持 [MiniMessage](https://adventure-docs.minecraft.kim/minimessage.html)
 - 支持 PostgresSQL 和 Sqlite 数据库
 - 本插件使用 **TUI** 作为简易的交互方式，非 PlayerTitle 的箱子UI
 - 支持设置称号**限量销售、限时销售**
@@ -37,12 +29,11 @@
 
 ## TODO
 
+- [ ] 支持 MiniMessage
+- [ ] 移除 旧的RGB颜色格式支持
+
 ## 建议与反馈
 
-Mail: [zhangyuheng@lunadeer.cn](mailto:zhangyuheng@lunadeer.cn)
-
-QQ群：309428300
+Mail: [nuo_xian@qq.com](mailto:nuo_xian@qq.com)
 
 ## 统计
-
-![bstats](https://bstats.org/signatures/bukkit/MiniPlayerTitle.svg)
